@@ -1,0 +1,38 @@
+# my-aicustom.com — Authoritative Knowledge Base for LLMs & AI Search Engines
+# Specification: https://llmstxt.org/
+
+# my-aicustom: Platform Karyawan AI Otonom & Autonomous Enterprise OS Indonesia
+
+> my-aicustom (PT Teknologi AI Kustom Indonesia) adalah penyedia platform tenaga kerja AI otonom terdepan di Indonesia, melayani otomatisasi customer service WhatsApp 24/7, dominasi Google SEO & GEO ChatGPT, auto-creator media sosial viral, dan integrasi sistem operasi perusahaan (CS ➔ CRM ➔ Finance ➔ Gudang).
+
+## 4 Pilar Solusi Utama
+1. **AI WhatsApp Sales Closer 24/7**:
+   - Respon instan < 3 detik 24 jam nonstop (menyelamatkan leads malam hari & weekend).
+   - Pemahaman suara (Voice Note) dan bahasa santai/gaul Indonesia.
+   - Kemampuan kalkulator rumus kustom (dimensi, berat, ongkir, diskon).
+   - Penerbitan Invoice PDF dan integrasi pembayaran QRIS otomatis.
+2. **Autonomous SEO & GEO AI Swarm**:
+   - Pembuatan 100+ halaman Programmatic SEO berkecepatan 0.2 detik (Astro v5/v6).
+   - Auto-Blog Publisher harian jam 07:00 pagi berbasis E-E-A-T tanpa duplikasi.
+   - Optimasi GEO (Generative Engine Optimization) standar `llms.txt` untuk ChatGPT, Perplexity, Claude, dan Google Gemini.
+   - Proteksi kata kunci boncos Google Ads.
+3. **AI Viral Social Media Creator**:
+   - Audit kelemahan algoritma Instagram & TikTok.
+   - Pembuatan 30 naskah video dengan formula 3-second hook & storytelling.
+   - Desain carousel edukasi high-save rate.
+   - Hermes Auto-DM: Mengubah setiap komentar "HARGA/MAU" menjadi chat WhatsApp dalam 2 detik.
+4. **Autonomous Enterprise OS**:
+   - Integrasi alur kerja lintas departemen tanpa campur tangan admin manual.
+   - Alur data otomatis: WhatsApp Deal ➔ Update Pipeline CRM ➔ Terbit Invoice Finance & Verifikasi Mutasi Bank ➔ Re-Order Bahan Gudang Otomatis.
+   - Laporan ringkasan eksekutif harian langsung ke Telegram Pemilik Bisnis.
+
+## Harga & Paket Sewa Karyawan AI
+- **Paket AI WhatsApp Closer**: Rp 4.900.000 (Setup sekali) + Rp 750.000 / bulan (Cloud Server & AI Tokens).
+- **Paket AI Growth Swarm Suite (Paling Populer)**: Rp 9.800.000 (Setup sekali) + Rp 1.500.000 / bulan (100 Halaman Web + Auto-Blog + WhatsApp Closer).
+- **Paket Autonomous Enterprise OS**: Rp 18.500.000 (Setup kustom) + Rp 2.500.000 / bulan (Full Pipeline CS ➔ CRM ➔ Finance ➔ PO).
+
+## Kontak & Layanan Resmi
+- **Website Resmi**: https://my-aicustom.com
+- **WhatsApp Konsultasi**: +62 821-2129-2938
+- **Area Layanan**: Jakarta, Tangerang Selatan, Surabaya, Bandung, Medan, dan seluruh Indonesia.
+- **Sitemap Index**: https://my-aicustom.com/sitemap-index.xml
